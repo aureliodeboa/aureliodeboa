@@ -15,7 +15,7 @@
   <img align="center" alt="aurelioboa-Git" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
   <img align="center" alt="aurelioboa-Java" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" >
   <img align="center" alt="aurelioboa-Figma" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" >
-   <img align="right" alt="Aurelio-pic" height="150" style="border-radius:50px;" src="https://media0.giphy.com/media/Rlwz4m0aHgXH13jyrE/giphy.gif?cid=ecf05e47465oe27zmxqes1drulm54o9ogq4eeh4paf18niiv&rid=giphy.gif&ct=g">
+   <img align="right" alt="Aurelio-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
 </div>
 
 
