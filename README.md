@@ -1,4 +1,4 @@
-## Aurelio Ribeiro aqui, was geht ab?
+## Aurelio Ribeiro, was geht ab?
 <div align="center">
   <a href="https://github.com/aureliodeboa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aureliodeboa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
