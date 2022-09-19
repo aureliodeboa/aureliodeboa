@@ -14,9 +14,9 @@
   <img align="center" alt="aurelioboa-C" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="aurelioboa-Github" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
   <img align="center" alt="aurelioboa-Java" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" >
-  <img align="center" alt="aurelioboa-Figma" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  <img align="center" alt="aurelioboa-Figma" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" >
 
-  <img align="right" alt="Aureliopic" height="150" style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/C4D03AQHxLLqmtNHy2A/profile-displayphoto-shrink_800_800/0/1652208932003?e=1669248000&v=beta&t=8z_sLVKN6fOdP_gSNG4rEjABCf1g3MUuUIEWKJSngRY">
+
 </div>
   
   ##
