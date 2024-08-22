@@ -1,29 +1,27 @@
-## Aurelio Ribeiro, was geht ab?
-<div align="center">
-  <a href="https://github.com/aureliodeboa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aureliodeboa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aureliodeboa&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="aureliodeboa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="aurelioboa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="aureliodeboa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="aureliodeboa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="aurelioboa-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-  <img align="center" alt="aurelioboa-OpenGl" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg">
-  <img align="center" alt="aurelioboa-C" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="aurelioboa-Git" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
-  <img align="center" alt="aurelioboa-Java" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" >
-  <img align="center" alt="aurelioboa-Figma" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" >
-   <img align="right" alt="HEHEboy-pic" height="150" style="border-radius:50px;" src="https://i.giphy.com/media/7j3UoXzbjvaIo/giphy.webp">
-</div>
+ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aurelio Ribeiro
+=====================================================================================================================================
+
+Computer Engineer
+-----------------
+
+<p align="center">As long as challenges arise, we will craft solutions.<br><br>
+
+I'm a front-end developer with a strong enthusiasm for data analysis. My curiosity drives me to explore new ideas and believe that curiosity and action are what move the world forward. I’m passionate about learning and applying new knowledge to create effective solutions in web development.
+</p>&nbsp;
 
 
-</div>
+<div  align="center" style="margin-bottom:100px">
+<img height=200px src="https://github-readme-streak-stats.herokuapp.com?user=aureliodeboa&theme=dark" alt="GitHub Streak" />
+<img width=40% height=200px " src="https://github-readme-stats.vercel.app/api/top-langs/?username=aureliodeboa&hide=html,css,scss,blade,c%2B%2B&show_icons=true&theme=dark&layout=compact" />
 
-  
-  ##
- 
+---
+
+## 🚀 My Skills
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,bootstrap,react,sass,git,figma,nextjs,linux,ubuntu,django,c,arduino,cpp,py,pytorch,ps,notion,flutter,java,nodejs,postgres,docker,&perline=20)](https://skillicons.dev)
+
+
+---
+## Contacts
 <div> 
  
   <a href="https://instagram.com/aurelioribeir0" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -35,3 +33,13 @@
   ![Snake animation](https://github.com/aureliodeboa/aurelio-output/blob/main/github-contribution-grid-snake.svg)
  
 </div>
+<div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/aureliodeboa/count.svg"
+    alt="Número de visitantes no perfil"
+  />
+</p>
