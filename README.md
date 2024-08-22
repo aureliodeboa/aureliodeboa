@@ -11,8 +11,8 @@ I'm a front-end developer with a strong enthusiasm for data analysis. My curiosi
 
 
 <div  align="center" style="margin-bottom:100px">
-<img height=100px src="https://github-readme-streak-stats.herokuapp.com?user=aureliodeboa&theme=dark" alt="GitHub Streak" />
-<img width=40% height=100px " src="https://github-readme-stats.vercel.app/api/top-langs/?username=aureliodeboa&hide=html,css,scss,blade,c%2B%2B&show_icons=true&theme=dark&layout=compact" />
+<img  src="https://github-readme-streak-stats.herokuapp.com?user=aureliodeboa&theme=dark" alt="GitHub Streak" />
+<img width=40%  " src="https://github-readme-stats.vercel.app/api/top-langs/?username=aureliodeboa&hide=html,css,scss,blade,c%2B%2B&show_icons=true&theme=dark&layout=compact" />
 
 ---
 
