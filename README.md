@@ -17,7 +17,7 @@ I'm a front-end developer with a strong enthusiasm for data analysis. My curiosi
 ---
 
 ## 🚀 My Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,bootstrap,react,git,figma,nextjs,linux,ubuntu,django,c,arduino,cpp,py,pytorch,ps,notion,flutter,swift,java,nodejs,postgres,docker,arduino,postman&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,bootstrap,react,git,figma,nextjs,laravel,php,linux,ubuntu,django,c,arduino,cpp,py,pytorch,ps,notion,flutter,swift,java,nodejs,postgres,docker,arduino,postman&perline=20)](https://skillicons.dev)
 
 
 ---
