@@ -37,9 +37,4 @@ I'm a front-end developer with a strong enthusiasm for data analysis. My curiosi
   <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
 
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/aureliodeboa/count.svg"
-    alt="Número de visitantes no perfil"
-  />
-</p>
+
