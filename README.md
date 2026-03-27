@@ -33,8 +33,6 @@ I'm a front-end developer with a strong enthusiasm for data analysis. My curiosi
   ![Snake animation](https://github.com/aureliodeboa/aurelio-output/blob/main/github-contribution-grid-snake.svg)
  
 </div>
-<div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
+
 
 
